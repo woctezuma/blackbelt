@@ -1,4 +1,4 @@
 cntk==2.6
 keras==2.2.4
 jupyter==1.0.0
-pillow
+pillow==5.4.1
