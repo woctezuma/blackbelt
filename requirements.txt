@@ -1,0 +1,4 @@
+cntk==2.6
+keras
+jupyter
+pillow
