@@ -9,6 +9,17 @@
 pip install -r requirements.txt
 ```
 
+-   Switch your [Keras backend](https://keras.io/backend/) to CNTK by editing `keras.json` in `%userprofile%/.keras/`:
+
+```json
+{
+    "floatx": "float32",
+    "epsilon": 1e-07,
+    "backend": "cntk",
+    "image_data_format": "channels_last"
+}
+```
+
 ## Usage
 
 ```bash
