@@ -1,5 +1,20 @@
 # Black-Belt
 
+## Requirements
+
+-   Install [Python 3.6.X](https://www.python.org/downloads/).
+-   Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+jupyter notebook
+```
+
 ## References
 
 -   [Keras: applications](https://keras.io/applications/)
