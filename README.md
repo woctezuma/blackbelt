@@ -26,6 +26,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+You could also run the notebook with a GPU provided by Google at [Colab](https://colab.research.google.com/github/woctezuma/blackbelt/blob/master/00-classifier-zoo.ipynb).
+
 ## References
 
 -   [Keras: applications](https://keras.io/applications/)
